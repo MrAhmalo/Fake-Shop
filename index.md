@@ -10,10 +10,10 @@ Bullet list:
 - Text
 
 Fettgedruckt:  
-**Dieser Text ist fett!  
+**Dieser Text ist fett!** 
 
 Schräg:  
-*Dieser Text ist schräg!  
+*Dieser Text ist schräg!*
 
 Einen klickbaren link hinzufügen:  
 [Beispiel klick](google.de) dies führt zu google.  
