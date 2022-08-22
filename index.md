@@ -1,37 +1,24 @@
 ## Was tun bei Fake Shops?
 
-You can use the [editor on GitHub](https://github.com/MrAhmalo/Fake-Shop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Bitte lesen:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Beispiele zum bearbeiten:
 
-### Markdown
+Bullet list:
+- Text
+- Text
+- Text
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fettgedruckt:
+**Dieser Text ist fett!
 
-```markdown
-Syntax highlighted code block
+Schräg:
+*Dieser Text ist schräg!
 
-# Header 1
-## Header 2
-### Header 3
+Einen klickbaren link hinzufügen:
+[Beispiel klick](www.google.com) dies führt zu google.
 
-- Bulleted
-- List
+Ein Bild hinzufügen:
+![Z](https://user-images.githubusercontent.com/98891212/185854477-afe11233-f962-4dfb-a030-4399bd6279cd.jpeg)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrAhmalo/Fake-Shop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Dieses Bild wurde mit drag and drop hinzugefügt.
