@@ -16,7 +16,7 @@ Schräg:
 *Dieser Text ist schräg!*
 
 Einen klickbaren link hinzufügen:  
-[Beispiel klick](google.de) dies führt zu google.  
+[Beispiel klick](https://google.de) dies führt zu google.  
  
 Ein Bild hinzufügen:  
 ![Z](https://user-images.githubusercontent.com/98891212/185854477-afe11233-f962-4dfb-a030-4399bd6279cd.jpeg)  
