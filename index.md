@@ -1,3 +1,4 @@
+![IMG_0581](https://user-images.githubusercontent.com/98891212/186103408-d7788385-0343-4d59-8f58-70221376a550.jpeg)
 ## Was sind Fake Shops überhaupt?
 
 Hast du schonmal etwas im Internet bestellt was im Endeffekt gar nicht geliefert oder gar angekommen ist. So Anzeigen findet man leider oft im internet. Dies nennt man Fake Shops. Eine Werbeanzeige von  diesen Fake Shops hat der ein oder andere bestimmt schon mal gesehen. Bei diesen Fake Shops handelt es sich um Personen die diesen shop erstellt haben um dadurch Geld zu bekommen. In diesen Shop erstellen die Personen dann Anzeigen von den Produkten. Viele Leute sind begeistert wenn sie die viele Auswahl und den günstigen Preis sehen und denken garnicht drüber nach um was es sich eigentlich handeln könnte. Wenn die Produkte bestellt sind bekommt man relativ schnell eine Bestätigung für die Austellung und der erfolgreichen Zahlung. Doch dann wartet man aber es kommt kein Produkt. Das ist das Ziel des Fake Shops.
@@ -19,7 +20,8 @@ Häufig versuchen sie einen mit günstigen Preisen dazu bringen die Artikel zu k
 5. Falsche Gütesiegel: 
 Oft haben Fake-Shops mit so genannten erfundenen Gütesiegel diese haben aber keinerlei Aussagekraft. Wenn sie wiederum echt sind kann man über ein klicken auf das Siegel prüfen ob es ein Fake-Shop ist oder nicht. Wenn das Siegel nämlich mit einem Zertifikat des Siegel-Betreibers verlinkt ist und kein entsprechender Link vorhanden, ist sollte es sich um einen Fake-Shop handeln  
 
-6. AGB: 
+6. AGB:
+
 Die AGB sind die Algemeinen Geschäftsbedingungen diese können bei Fake-Shops selbst erfunden werden oder auch von anderen Seiten kopiert werden. Dies ist aber häufig nicht gerade leicht zu erkennen. Ein aber sehr deutliches Erkennungszeichen ist wenn sie in schlechtem Deutsch verfasst worden oder Grammatik und Rechtschreibfehler aufweisen. Ist das der Fall oder die AGB fehlen sogar komplett, sollte man den den kauf lieber abrechen und garnicht erst das Risiko eines Fake-Shops eingehen. 
 
 7. Impressum: 
