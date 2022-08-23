@@ -21,7 +21,6 @@ Häufig versuchen sie einen mit günstigen Preisen dazu bringen die Artikel zu k
 Oft haben Fake-Shops mit so genannten erfundenen Gütesiegel diese haben aber keinerlei Aussagekraft. Wenn sie wiederum echt sind kann man über ein klicken auf das Siegel prüfen ob es ein Fake-Shop ist oder nicht. Wenn das Siegel nämlich mit einem Zertifikat des Siegel-Betreibers verlinkt ist und kein entsprechender Link vorhanden, ist sollte es sich um einen Fake-Shop handeln  
 
 6. AGB:
-
 Die AGB sind die Algemeinen Geschäftsbedingungen diese können bei Fake-Shops selbst erfunden werden oder auch von anderen Seiten kopiert werden. Dies ist aber häufig nicht gerade leicht zu erkennen. Ein aber sehr deutliches Erkennungszeichen ist wenn sie in schlechtem Deutsch verfasst worden oder Grammatik und Rechtschreibfehler aufweisen. Ist das der Fall oder die AGB fehlen sogar komplett, sollte man den den kauf lieber abrechen und garnicht erst das Risiko eines Fake-Shops eingehen. 
 
 7. Impressum: 
