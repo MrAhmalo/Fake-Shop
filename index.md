@@ -5,16 +5,16 @@ Hast du schonmal etwas im Internet bestellt was im Endeffekt gar nicht geliefert
 
 ## Woran erkenne ich Fake Shops?
 
-1.Kundenbewertung: 
+1. Kundenbewertung: 
 Häufig stehen in den Bewertungen überwiegend positive Kommentare welche ähnlich oder sogar identisch sind. Negative Kommentare zu finden ist da eher schwierig. Außerdem stehen manchmal auch in den Bewertungen Kommentare welche stark abweichen von dem was man eben gerade kaufen will. 
 
-2.(Un)Sichere Zahlungsweise: 
+2. (Un)Sichere Zahlungsweise: 
 Meist werden einem zu Beginn viele verschiedene Zahlungsweisen angeboten. Jedoch kann man am Ende doch nur noch Vorkasse zahlen. So stellen die Betrüger fest das sie ihr Geld haben. Doch sollte es andersrum sein erst wenn man die Waren erhalten hat bezahlen zu müssen. Wenn dies nicht so ist sollten sie es besser nicht bestellen. 
 
-3.Auffällige Internetadressen: 
+3. Auffällige Internetadressen: 
 Manchmal verwenden sie auch Internetadressen die nur minimal von anderen bekannten Interntetadressen abgewandelt sind. Zum Beispiel steht anstatt „.de“ dann „.de.com“, das lässt sich aber natürlich nur herausfinden lassen wenn man die korrekte Adresse kennt. Außerdem sollte die Adresse auch zum Inhalt der Seite passen. 
 
-4.Auffallend günstiger Preis: 
+4. Auffallend günstiger Preis: 
 Häufig versuchen sie einen mit günstigen Preisen dazu bringen die Artikel zu kaufen. Das heißt aber nicht sofort das es ein Fake-Shop ist. Man sollte aber trotzdem bei sehr günstigen Preisen nochmal genauer hin sehen. 
 
 5. Falsche Gütesiegel: 
@@ -40,4 +40,5 @@ Syntax highlighted code block
 ## Hilfe und Informationen bei Verbraucherzentralen  
 
 Der Verbraucherzentralen sind unabhängige Einrichtungen. Ihr Ziel ist , die Interessen der Bürger *innen als Verbraucher*innen zu vertreten. Sie nehmen auch Einfluss auf die Politik z.B. ,wenn ein neues Gesetz entsteht dann stehen sie für das Recht der Verbraucher*innen. Verbraucherzentralen verklagen die Unternehmen um die Verbraucherrechte durchzusetzen.In allen Bundesländern gibt es Verbraucherzentralen mit Beratungsstellen. Zu den Beratungsstellen gibt es auch noch Angebote im Internet. Größtenteils werden die Verbraucherzentralen aus staatlichen Fördermitteln finanziert , doch eine Angebote müssen auch von Ratsuchenden bezahlt.
+
 
