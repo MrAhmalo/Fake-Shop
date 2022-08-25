@@ -15,7 +15,7 @@ Meist werden einem zu Beginn viele verschiedene Zahlungsweisen angeboten. Jedoch
 Manchmal verwenden sie auch Internetadressen die nur minimal von anderen bekannten Interntetadressen abgewandelt sind. Zum Beispiel steht anstatt „.de“ dann „.de.com“, das lässt sich aber natürlich nur herausfinden lassen wenn man die korrekte Adresse kennt. Außerdem sollte die Adresse auch zum Inhalt der Seite passen. 
 
 4. Auffallend günstiger Preis: 
-Häufig versuchen sie einen mit günstigen Preisen dazu bringen die Artikel zu kaufen. Das heißt aber nicht sofort das es ein Fake-Shop ist. Man sollte aber trotzdem bei sehr günstigen Preisen nochmal genauer hin sehen. 
+Häufig versuchen sie einen mit günstigen Preisen dazu zu bringen die Artikel zu kaufen. Das heißt aber nicht sofort das es ein Fake-Shop ist. Man sollte aber trotzdem bei sehr günstigen Preisen nochmal genauer hin sehen. 
 
 5. Falsche Gütesiegel: 
 Oft haben Fake-Shops mit so genannten erfundenen Gütesiegel diese haben aber keinerlei Aussagekraft. Wenn sie wiederum echt sind kann man über ein klicken auf das Siegel prüfen ob es ein Fake-Shop ist oder nicht. Wenn das Siegel nämlich mit einem Zertifikat des Siegel-Betreibers verlinkt ist und kein entsprechender Link vorhanden, ist sollte es sich um einen Fake-Shop handeln  
