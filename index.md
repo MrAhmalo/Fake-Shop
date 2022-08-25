@@ -1,7 +1,7 @@
 ![IMG_0581](https://user-images.githubusercontent.com/98891212/186103408-d7788385-0343-4d59-8f58-70221376a550.jpeg)
 ## Was sind Fake Shops überhaupt?
 
-Hast du schonmal etwas im Internet bestellt was im Endeffekt gar nicht geliefert oder gar angekommen ist. So Anzeigen findet man leider oft im internet. Dies nennt man Fake Shops. Eine Werbeanzeige von  diesen Fake Shops hat der ein oder andere bestimmt schon mal gesehen. Bei diesen Fake Shops handelt es sich um Personen die diesen shop erstellt haben um dadurch Geld zu bekommen. In diesen Shop erstellen die Personen dann Anzeigen von den Produkten. Viele Leute sind begeistert wenn sie die viele Auswahl und den günstigen Preis sehen und denken garnicht drüber nach um was es sich eigentlich handeln könnte. Wenn die Produkte bestellt sind bekommt man relativ schnell eine Bestätigung für die Austellung und der erfolgreichen Zahlung. Doch dann wartet man aber es kommt kein Produkt. Das ist das Ziel des Fake Shops.
+Hast du schonmal etwas im Internet bestellt was im Endeffekt gar nicht geliefert oder gar nicht angekommen ist. So Anzeigen findet man leider oft im internet. Dies nennt man Fake Shops. Eine Werbeanzeige von  diesen Fake Shops hat der ein oder andere bestimmt schon mal gesehen. Bei diesen Fake Shops handelt es sich um Personen die diesen shop erstellt haben um dadurch Geld zu bekommen. In diesen Shop erstellen die Personen dann Anzeigen von den Produkten. Viele Leute sind begeistert wenn sie die viele Auswahl und den günstigen Preis sehen und denken garnicht drüber nach um was es sich eigentlich handeln könnte. Wenn die Produkte bestellt sind bekommt man relativ schnell eine Bestätigung für die Austellung und der erfolgreichen Zahlung. Doch dann wartet man aber es kommt kein Produkt. Das ist das Ziel des Fake Shops.
 
 ## Woran erkenne ich Fake Shops?
 
@@ -34,14 +34,10 @@ ankommt ) ist es wichtig, dass wenn du schon das Geldüberwiesen hast, deine Ban
 ## Wie bekomme ich mein Geld zurück?
 
 Wenn man mit der Kreditkarte bezahlt hat, kann man der Bank melden, dass man den Kaufvertrag zurückbuchen will. Wenn man z.Bsp. mit Paypal bezahlen hat kann man den Verkäufer melden wenn er nach einer bestimmten Frist den Artikel nicht verschickt hat wird die Zahlung automatisch rückgängig gemacht. Sie können außerdem eine Strafanzeige bei der Polizei machen.
-Syntax highlighted code block
 
 ## Hilfe und Informationen bei Verbraucherzentralen  
 
 Der Verbraucherzentralen sind unabhängige Einrichtungen. Ihr Ziel ist , die Interessen der Bürger *innen als Verbraucher*innen zu vertreten. Sie nehmen auch Einfluss auf die Politik z.B. ,wenn ein neues Gesetz entsteht dann stehen sie für das Recht der Verbraucher*innen. Verbraucherzentralen verklagen die Unternehmen um die Verbraucherrechte durchzusetzen.In allen Bundesländern gibt es Verbraucherzentralen mit Beratungsstellen. Zu den Beratungsstellen gibt es auch noch Angebote im Internet. Größtenteils werden die Verbraucherzentralen aus staatlichen Fördermitteln finanziert , doch eine Angebote müssen auch von Ratsuchenden bezahlt.
 
 
-Quellen: Arbeitsblätter
-
-
-
+*Quellen: Arbeitsblätter*
