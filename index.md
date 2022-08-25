@@ -41,3 +41,6 @@ Der Verbraucherzentralen sind unabhängige Einrichtungen. Ihr Ziel ist , die Int
 
 
 *Quellen: Arbeitsblätter*
+
+
+Wir hoffen, dass wir euch weitergeholfen haben.
