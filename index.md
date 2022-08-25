@@ -40,7 +40,10 @@ Wenn man mit der Kreditkarte bezahlt hat, kann man der Bank melden, dass man den
 Der Verbraucherzentralen sind unabhängige Einrichtungen. Ihr Ziel ist , die Interessen der Bürger *innen als Verbraucher*innen zu vertreten. Sie nehmen auch Einfluss auf die Politik z.B. ,wenn ein neues Gesetz entsteht dann stehen sie für das Recht der Verbraucher*innen. Verbraucherzentralen verklagen die Unternehmen um die Verbraucherrechte durchzusetzen.In allen Bundesländern gibt es Verbraucherzentralen mit Beratungsstellen. Zu den Beratungsstellen gibt es auch noch Angebote im Internet. Größtenteils werden die Verbraucherzentralen aus staatlichen Fördermitteln finanziert , doch einige Angebote müssen auch von Ratsuchenden bezahlt.
 
 
+Wir hoffen, dass wir euch weitergeholfen haben. 
+
 *Quellen: Arbeitsblätter*
 
 
-Wir hoffen, dass wir euch weitergeholfen haben.
+
+
